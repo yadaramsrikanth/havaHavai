@@ -1,0 +1,17 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 25px;
+}
+
+.header-heading {
+  color: #000000;
+  font-size: 36px;
+}
+
+.website-logo {
+  width: 32px;
+  height: 32px;
+}

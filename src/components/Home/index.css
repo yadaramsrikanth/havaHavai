@@ -1,0 +1,10 @@
+.home-main-container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.home-view-container {
+  display: flex;
+  flex-direction: row;
+}

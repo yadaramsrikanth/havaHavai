@@ -1,0 +1,60 @@
+.airport-main-container {
+  display: flex;
+  flex-direction: column;
+
+  margin: 15px;
+}
+.form-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.form-heading {
+  color: #222222;
+  font-weight: 700;
+  font-size: 24px;
+}
+.add-button {
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.table-container {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 800px;
+}
+.all-airport-label {
+  color: #222222;
+  font-weight: 600;
+  font-size: 18px;
+  margin-left: 12px;
+}
+
+.table-item {
+  color: #222222;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.unordered-items-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 0px;
+}
+
+.not-Listed-any{
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}

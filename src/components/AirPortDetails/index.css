@@ -1,0 +1,188 @@
+.details-container {
+  display: flex;
+  flex-direction: row;
+}
+.airport-details-heading {
+  font-size: 20px;
+  font-weight: 400;
+  color: #464646;
+}
+.span-element {
+  font-size: 20px;
+  font-weight: 600;
+  color: #222222;
+}
+.airport-name {
+  font-size: 32px;
+  font-weight: 700;
+  color: #222222;
+}
+.airport-points {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.terminal {
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+  margin-right: 15px;
+}
+.terminal-containerr {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.trminal1-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.terminal-1-heading {
+  font-size: 20px;
+  font-weight: 600;
+  color: #000000;
+}
+.terminal-image {
+  margin-right: 10px;
+  height: 120px;
+}
+.terminals-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.add-terminal-button {
+  border: 2px solid #222222;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: transparent;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+}
+.Services {
+  font-size: 22px;
+  font-weight: 700;
+  color: #222222;
+
+  margin-bottom: 4px;
+}
+.lost-Found {
+  color: #222222;
+  font-size: 20px;
+  font-weight: 500;
+}
+.horizontal-line {
+  color: #d5d5d5;
+}
+.service-name {
+  color: #464646;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.service-container {
+  margin-left: 20px;
+}
+
+.lost-found-details-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.lost-found-service {
+  border: 1px solid #b1b1b1;
+  padding: 5px;
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+  font-size: 15px;
+}
+.select-option {
+  border: 1px solid #b1b1b1;
+  padding: 5px;
+  border-radius: 5px;
+  width: 150px;
+
+  font-size: 15px;
+}
+.upload-button {
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: 500;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.toggle-button {
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: 500;
+  font-size: 15px;
+  background-color: transparent;
+  margin-left: 20px;
+}
+.show-image {
+  margin-left: 10px;
+}
+
+.service-save-button {
+  background-color: #000000e5;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 8px;
+  border-radius: 15px;
+  margin-left: 50px;
+}
+.input-element {
+  width: 220px;
+  border: 1px solid #d5d5d5;
+  padding: 5px;
+  font-size: 14px;
+  outline: none;
+}
+.terminal-title {
+  font-size: 18px;
+}
+.popup-description {
+  color: #222222;
+  font-size: 16px;
+  font-weight: 500;
+}
+.cancel-button {
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 8px;
+  font-size: 14px;
+  margin: 0px 10px 5px 10px;
+  font-weight: 400;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.popup-container {
+  background-color: #d5d5d5;
+  padding: 15px;
+}

@@ -1,0 +1,45 @@
+.side-bar-container {
+  display: flex;
+  flex-direction: column;
+  width: 272px;
+  height: 964px;
+  padding: 20px 16px 16px 16px;
+  list-style-type: none;
+  margin: 15px;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.home-list-item {
+  margin-left: 10px;
+  color: #222222;
+  font-weight: 500;
+}
+.services-list-item {
+  font-weight: 500;
+  font-size: 15px;
+  color: #222222;
+  margin-top: 15px;
+}
+.airports-list-item {
+  background-color: #cbd6e2;
+  padding: 5px;
+  width: 200px;
+}
+.others-list-item {
+  font-weight: 700;
+  font-size: 15px;
+  color: #222222;
+  margin-top: 20px;
+}
+
+.others-list-items {
+  font-weight: 400;
+  font-size: 14px;
+  color: #222222;
+  margin-top: 5px;
+}
+
